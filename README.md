@@ -1,0 +1,1 @@
+This is a simple Java program that translates text into different languages using the Google Cloud Translation API. It is used Modify the text and targetLanguage variables in LanguageTranslator.java to translate to the desired language.
